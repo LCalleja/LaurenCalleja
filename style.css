@@ -1,0 +1,34 @@
+body {
+  font-family: "Poppins";
+  background: #FFFAF0;
+  color: #778899;
+  text-align:justify;
+}
+
+header {
+  border: 3% solid #DB7093;
+  margin: 9%;
+  text-align:center;
+}
+  
+h1 {
+  colour: #586674;
+  size: 100;
+  text-align:left;
+}
+
+h2 {
+  colour: #586674;
+  size: 80;
+  text-align:left;
+}
+
+h3 {
+  colour: #586674;
+  size: 60;
+  text-align:left;
+}
+
+footer {
+  text-align:center;
+}
