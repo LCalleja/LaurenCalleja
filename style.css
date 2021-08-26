@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  border: 3px solid #6a6ae2;
+  border: 3px solid #586674;
   margin: 20px;
   text-align:center;
 }
@@ -32,5 +32,5 @@ h3 {
 
 footer {
   text-align:center;
-  margin-top: 2px solid #6a6ae2;
+  margin-top: 2px solid #586674;
 }
