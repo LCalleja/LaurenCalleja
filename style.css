@@ -3,11 +3,12 @@ body {
   background: #E6E6FA;
   color: #778899;
   text-align:justify;
+  margin: 15px;
 }
 
 header {
-  border: 3% solid #DB7093;
-  margin: 9%;
+  border: 3px solid #6a6ae2;
+  margin: 20px;
   text-align:center;
 }
   
@@ -31,4 +32,5 @@ h3 {
 
 footer {
   text-align:center;
+  margin-top: 2px solid #6a6ae2;
 }
